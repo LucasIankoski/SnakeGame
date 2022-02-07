@@ -1,0 +1,29 @@
+
+
+Version:	3.14
+CmdLine:	A:\workspace\Snake\Snake Game.exe --l4j-debug
+WOW64:		yes
+Working dir:	A:\workspace\Snake\.
+Java min ver:	1.011.000
+Java max ver:	
+Bundled JRE(s):	java-runtime
+Check launcher:	A:\workspace\Snake\java-runtime\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.5
+Ignore:		1.005.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.5.0_10
+Ignore:		1.005.000_010
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.006.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_45
+Ignore:		1.006.000_045
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.9
+Check launcher:	C:\Program Files\Java\jdk-11.0.9\bin\javaw.exe (OK)
+Match:		1.011.000_009
+Runtime used:	1.011.000_009 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-11.0.9\bin\javaw.exe
+Launcher args:	-jar "A:\workspace\Snake\Snake Game.exe"
+Args length:	40/32768 chars
+Exit code:	0
